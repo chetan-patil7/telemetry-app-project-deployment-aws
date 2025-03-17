@@ -1,0 +1,3 @@
+[submodule "eks"]
+	path = eks
+	url = https://github.com/chetan-patil7/EKS_creation_using_terraform.git
